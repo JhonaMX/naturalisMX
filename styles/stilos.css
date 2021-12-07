@@ -1,11 +1,16 @@
-p, h2
- {
-    color: red;
-  }
+h1
+   {
+       color:turquoise
+   }
+h2, h3
+    {
+    color:salmon
+  
+    }
 
   img
-  {
-    height: 400px;
+     {
+    height: 300px;
     
 
-  }
+     }
