@@ -1,3 +1,5 @@
+
+/*
 // Titulo de texto JS
 const miTitulo = document.querySelector('h1');
 miTitulo.textContent = '¡Hola Perro mundo!';
@@ -43,7 +45,7 @@ myButton.onclick = function() {
   setUserName();
 }
 
-/*
+
 let miBoton = document.querySelector('button');
 let miTitulo = document.querySelector( 'h1');
 
@@ -66,3 +68,5 @@ function estableceNombreUsuario() {
    }
    */
   
+
+   
