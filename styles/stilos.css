@@ -1,29 +1,27 @@
-/*
 
-/*
-h2
-    {
-    font-size: : 90px;  
-    font width: 50px;
-    background-color:red;   
-    color: yellow;
-    padding: 10px;
-    height:100px;
-    width: 100px:
-   
-    
-  
-    }
 
-  img
-     {
-    height: 300px;
-    
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  background:url(imagenes/Aloe.jpg);
+  background-color: blue;
+}
 
-     }
-
-     .encabez {
-        color: blue;
-        font-size: 400px;
-        
-*/
+.toppin {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+  margin: 15px 0;
+}
+.fondo-marron {
+  background-color: brown;
+}
